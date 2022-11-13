@@ -1,0 +1,13 @@
+div{
+ 
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ div a{
+    background-color: whitesmoke;
+    padding: .2rem 1rem;
+    margin: .5rem .5rem .5rem 0;
+    color:blue;
+    font-weight: 600;
+    border-radius: .2rem;
+ }
